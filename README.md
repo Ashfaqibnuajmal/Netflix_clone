@@ -1,16 +1,27 @@
-# netflix_clone
+# Netflix Clone
 
-A new Flutter project.
+A Flutter Netflix Clone built using the TMDB API. The application displays trending movies, popular movies, and detailed movie information with a Netflix-inspired user interface.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Browse Trending Movies
+- View Popular Movies
+- Movie Details Page
+- TMDB API Integration
+- Responsive UI Design
+- Netflix-inspired Interface
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter
+- Dart
+- TMDB API
+- HTTP Package
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Purpose
+
+This project was built to practice API integration, JSON parsing, state management, and creating modern user interfaces in Flutter.
+
+## Author
+
+Ashfaq KV
